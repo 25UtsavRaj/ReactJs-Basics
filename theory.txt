@@ -46,7 +46,7 @@ React JS Basics
 ----------------
 props - Shortcut for properties 
 
-props - We can use props to allow compoenenst to talk to each other
+props - We can use props to allow compoenents to talk to each other
 
 -> Get passed co component function parameters
 -> props are immutable
